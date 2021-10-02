@@ -1,0 +1,4 @@
+projects where I still have yet to get the hello world example to run
+
+basic
+cobol
